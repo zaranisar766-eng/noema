@@ -1,0 +1,30 @@
+{
+  "name": "noema",
+  "version": "3.0.0",
+  "private": true,
+  "description": "NOEMA — Neural Fitness System. Marketing site.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.1.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "framer-motion": "^11.15.0",
+    "lenis": "^1.1.18",
+    "clsx": "^2.1.1",
+    "@react-three/fiber": "^9.0.0",
+    "@react-three/drei": "^9.120.0",
+    "three": "^0.172.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17",
+    "postcss": "^8.5.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.18.0",
+    "eslint-config-next": "15.1.6"
+  }
+}
